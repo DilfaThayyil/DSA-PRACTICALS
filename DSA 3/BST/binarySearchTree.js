@@ -226,7 +226,7 @@ bst.levelOrder()
 // bst.preOrder(bst.root)
 // console.log("----")
 // bst.inOrder(bst.root)
-// console.log("---")
+// console.log("---")-
 // bst.postOrder(bst.root)
 // console.log(bst.search(bst.root,10))
 
