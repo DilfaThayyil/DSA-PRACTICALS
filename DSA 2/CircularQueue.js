@@ -21,7 +21,7 @@ class CircularQueue{
             this.items[this.rear] = element
             this.currentLength += 1
             if(this.front === -1){
-                this.front = this.rear 
+                this.front = this.rear
             }
         }
     }
