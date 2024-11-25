@@ -65,7 +65,7 @@ array.forEach((num,index)=>{
 //     arr[i] = 0
 // }
 
-// console.log(arr)
+// console.log(arr) 
 
 
         // find largest 3 elements
